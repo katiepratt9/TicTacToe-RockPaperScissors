@@ -34,3 +34,26 @@ build/
 
 # Logs
 *.log
+
+# Build & binary files
+*.exe
+*.obj
+*.o
+*.ilk
+*.pdb
+*.ipch
+*.tlog
+*.log
+
+# Visual Studio cache files
+*.suo
+*.user
+*.VC.db
+*.opensdf
+*.sdf
+*.vscode
+.vs/
+
+# Windows OS junk
+Thumbs.db
+Desktop.ini
