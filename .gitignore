@@ -1,0 +1,36 @@
+# Ignore build output
+*.exe
+*.out
+*.o
+*.obj
+
+# Ignore compiled files
+*.dll
+*.so
+*.dylib
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Code editor folders
+.vscode/
+.idea/
+*.code-workspace
+
+# Backup files
+*~
+*.swp
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+
+# Logs
+*.log
